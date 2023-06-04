@@ -24,5 +24,9 @@ from app import enhance_drawing
 
 enhance_drawing('input.png', 'output.png', 'Change the design to improve efficiency and usability')
 
+## Want to help?
+Developer wanting to help? join the discord: https://discord.gg/pDGb32yQ
+Just want to support development? stake to our stakepool: https://artemispool.co.uk/
+  
 ## License
 This project is licensed under the terms of the MIT license.
