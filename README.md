@@ -18,7 +18,7 @@ pip install -r requirements.txt
 export OPENAI_API_KEY=your-api-key
 
 ## Usage
-## To use the application, call the enhance_drawing function with the paths to the input and output images, and the prompt:
+To use the application, call the enhance_drawing function with the paths to the input and output images, and the prompt:
 
 from app import enhance_drawing
 
