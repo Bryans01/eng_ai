@@ -6,7 +6,7 @@ import os
 
 
 openai.api_key = os.getenv('OPENAI_API_KEY')
-#openai.api_key = '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'
+
 
 def enhance_drawing(input_image_path, output_image_path, prompt):
     # Read the image file from disk and resize it
